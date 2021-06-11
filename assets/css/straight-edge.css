@@ -1,0 +1,33 @@
+html, body{
+    margin: 0;
+    height: 100%;
+    background: #0043E7;
+    color: #fff;
+    font-family: MNM-R;
+}
+
+.col-md-12{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.content-menu-3{
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: 200px;
+}
+
+.content-1{
+    margin-bottom: 125px;
+}
+.content-1 img{
+    max-width: 70%;
+}
+.content-1 .desc{
+    font-size: 1.2vw;
+    text-align: justify;
+}
+
+hr{
+    border: 2px solid #fff;
+}

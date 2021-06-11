@@ -1,0 +1,222 @@
+.swiper {
+    padding: 100px 28px 0px 28px;
+    margin-bottom: 100px;
+}
+
+.swiper .swiper-container {
+    width: 100%;
+    margin-top: 35px;
+}
+
+.swiper .swiper-container img{
+    width: 100%;
+}
+
+.swiper .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #000;
+
+      /* Center slide text vertically */
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+    }
+
+.swiper .btn-swiper{
+    padding: 0px 28px;
+}
+.swiper .btn-swiper .col-md-6{
+    height: 60px;
+   
+}
+
+.swiper .btn-swiper .swiper-prev{
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-right: 0.5px solid #fff;
+    height: 60px;
+}
+.swiper .btn-swiper .swiper-next{
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-left: 0.5px solid #fff;
+    height: 60px;
+}
+
+.swiper .btn-prev{
+    color: #fff;
+    float: left;
+}
+.swiper .btn-next{
+    color: #fff;
+    float: right;
+}
+.swiper .two-swiper{
+    margin-top: 10px;
+    font-family: SM-R;
+    font-size: 24px;
+}
+.swiper .two-swiper img{
+    max-width: 50px;
+    background: #f94e4e;
+    padding: 12px 10px;
+    border-radius: 100%;
+    margin-top: -6px;
+}
+
+
+.rangkaian-hidup .swiper2{
+    background: #000;
+    padding: 20px 0px;
+}
+.rangkaian-hidup .swiper-slide {
+    
+      /* Center slide text vertically */
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+    text-decoration: none;
+}
+
+.rangkaian-hidup .swiper-slide img{
+    width: auto;
+    height: 437px;
+}
+
+.rangkaian-hidup .swiper-slide-active{
+    margin-right: 155px;
+}
+.rangkaian-hidup .swiper-slide-active:hover .text-slider{
+    display: block;
+}
+
+.rangkaian-hidup .margin-l{
+    margin-left: 0;
+}
+.rangkaian-hidup .margin-r{
+    margin-right: 0;
+}
+.rangkaian-hidup .two-swiper img{
+    max-width: 50px;
+    background: #f94e4e;
+    padding: 12px 10px;
+    border-radius: 100%;
+    margin-top: 20px;
+}
+.rangkaian-hidup .text-slider{
+    position: absolute;
+    bottom: 0;
+    left: -10;
+    width: 300px;
+    text-align: left;
+    display: none;
+    text-decoration: none;
+}
+.rangkaian-hidup .text-slider h1{
+    font-family: SM-B;
+    font-size: 31px;
+    text-decoration: none;
+    color: #fff;
+}
+.rangkaian-hidup .text-slider p{
+    font-family: SM-R;
+    font-size: 14px;
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.store .box-slide-store{
+    padding-right: 16px;
+}
+.store .swiper-container {
+    width: 100%;
+    height: auto;
+}
+.store .swiper-container .swiper-slide{
+    margin: 10px;
+}
+.store .swiper-slide img{
+    width: 300px;
+    border: 1px solid #fff;
+}
+.store .box-slide-store h4{
+    font-family: SM-B;
+    font-size: 18px;
+    background: blue
+    padding-left: 0;
+    padding-right: 0;
+}
+.store .box-slide-store p{
+    font-family: SM-R;
+    font-size: 12px;
+    padding-left: 0;
+    padding-right: 0;
+}
+.store .box-slide-store .col-md-4{
+    text-align: right;
+}
+.store .box-slide-store .col-md-8{
+    padding-left: 0;
+    padding-right: 0;
+}
+.store .box-slide-store .col-md-9{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.store .box-btn{
+    height: 60%;
+    position: absolute;
+}
+.store .two-swiper{
+    position: absolute;
+    top: 50%;
+    transform: translateX(0) translateY(-50%);
+    z-index: 99;
+}
+.store .btn-prev{
+    left: 0;
+}
+.store .btn-next{
+    right: 0;
+}
+.store .two-swiper img{
+    max-width: 50px;
+    background: #f94e4e;
+    padding: 12px 10px;
+    border-radius: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

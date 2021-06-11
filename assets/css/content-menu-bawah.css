@@ -1,0 +1,149 @@
+html, body{
+    margin: 0;
+    height: 100%;
+    background: #000;
+    color: #fff;
+    font-family: MNM-R;
+}
+
+.col-md-12{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.content-menu-3{
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: 200px;
+}
+.content-menu-3 h1{
+    font-family: MN-EB;
+    font-size: 5vw;
+}
+.content-menu-3 h1 span{
+    font-family: MNM-R;
+    font-size: 18px
+}
+
+.content-1{
+    margin-bottom: 125px;
+}
+.content-1 img{
+    max-width: 70%;
+}
+.content-1 .name-img{
+    margin-left: 15%;
+    margin-top: -25px;
+    font-family: MNM-B;
+    font-size: 1.2vw;
+}
+.content-1 .name-img .kecil{
+    font-size: 0.8vw;
+    font-family: MNM-R;
+}
+.content-1 .desc{
+    font-size: 1.2vw;
+}
+
+.content-2{
+    margin-bottom: 100px;
+}
+.content-2 a:hover{
+    text-decoration: none;
+}
+.content-2 a{
+    margin-bottom: 75px;
+}
+.content-2 img{
+    width: 100%;
+    margin-bottom: 25px;
+}
+.content-2 p{
+    text-decoration: none;
+    color: #fff;
+}
+.content-2 .name{
+    font-family: MNM-B;
+    font-size: 1.5vw;
+}
+.content-2 .genre{
+    font-family: MNM-R;
+    font-size: 0.8vw;
+}
+.content-2 .location{
+    font-family: MNM-RI;
+    font-size: 0.8vw;
+}
+
+
+
+.content-menu-3-1{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 200px;
+}
+.content-menu-3-1 h1{
+    font-family: MN-EB;
+    font-size: 5vw;
+    padding-left: 150px;
+}
+.content-menu-3-1 h1 span{
+    font-family: MNM-R;
+    font-size: 18px
+}
+.content-3{
+    margin-bottom: 125px;
+}
+.content-3 .box-content-3{
+    border-bottom: 2px solid #fff;
+}
+.content-3 .box-content-3 .row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.content-3 .box-title{
+    border-top: 2px solid #fff;
+    padding-top: 10px;
+}
+.content-3 .box-title-foto{
+    border-top: 2px solid #fff;
+    border-left: 2px solid #fff;
+    padding-top: 10px;
+}
+.content-3 .box-logo{
+    border-top: 2px solid #fff;
+}
+.content-3 .box-foto{
+    border-top: 2px solid #fff;
+    border-left: 2px solid #fff;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.content-3 .title{
+    font-family: MNM-B;
+    font-size: 1.5vw;
+}
+.content-3 .name{
+    font-family: MNM-B;
+    font-size: 0.8vw;
+    margin-left: 26px;
+}
+.content-3 .name i{
+    margin-left: 100px;
+}
+.content-3 .location{
+    font-family: MNM-RI;
+    font-size: 0.8vw;
+}
+.content-3 .logo{
+    width: 100%;
+    padding: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+}
+.content-3 .img-event{
+    width: 100%;
+}
+

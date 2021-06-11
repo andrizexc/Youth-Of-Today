@@ -1,0 +1,110 @@
+html, body{
+    margin: 0;
+    background: #fff;
+    color: #000;
+    font-family: MNM-R;
+}
+
+.col-md-12{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.title{
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: 200px;
+}
+.title h1{
+    font-family: MN-EBI;
+    font-size: 5vw;
+}
+.title h1 span{
+    font-family: MNM-R;
+    font-size: 1.8vw;
+}
+hr{
+    border: 2px solid #000;
+}
+
+.list-menu-figure{
+    margin-bottom: 300px;
+    margin-left: 200px;
+    margin-top: 300px;
+}
+.list-menu-figure a{
+    text-decoration: none;
+    color: #000;
+}
+.list-menu-figure h1{
+    font-family: MNM-B;
+}
+.list-menu-figure span{
+    font-size: 1.2vw;
+    font-family: MNM-R;
+}
+
+.content-1{
+    margin-bottom: 100px;
+    padding: 0px 50px;
+}
+.content-1 img{
+    max-width: 100%;
+}
+.content-1 .desc{
+    font-size: 0.8em;
+}
+
+.content-1 .content-1-2{
+    margin-bottom: 80px;
+}
+.content-1 .content-1-2 img{
+    width: 100%;
+}
+.content-1 .content-1-2 p{
+    font-family: MNM-B;
+    font-size: 1.2vw;
+}
+.content-1 .kecil{
+    font-size: 0.8vw;
+    font-family: MNM-R;
+}
+
+.content-1 .content-1-3{
+    font-family: MNM-R;
+    font-size: 1.2vw;
+    text-align: justify;
+}
+
+.content-2{
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 125px;
+}
+.content-2 img{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

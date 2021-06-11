@@ -1,0 +1,26 @@
+.footer{
+    background: transparent;
+    color: #000;
+    margin-bottom: 30px;
+    color: #fff;
+}
+
+.footer .row{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding: 0px 50px;
+}
+.footer a{
+    color: #fff;
+    text-decoration: none;
+    float: right;
+}
+
+.footer2{
+    color: #000;
+}
+.footer2 a{
+    color: #000;
+}
+
+

@@ -1,0 +1,47 @@
+html, body{
+    margin: 0;
+    height: 100%;
+    background: #000;
+    color: #fff;
+    font-family: MNM-R;
+}
+
+.col-md-12{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.content-1{
+    padding-left: 50px;
+    padding-right: 50px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.content-1 input{
+    background: #000;
+    border: 1px solid #fff;
+    height: 35px;
+    margin-bottom: 20px;
+}
+
+.content-1 .ttl{
+    width: 31.3%;
+}
+
+
+.content-1 .btn-regis{
+    background: #0043E7;
+    text-decoration: none;
+    color: #fff;
+    padding: 0px 10px;
+}
+
+
+.content-1 a{
+    text-decoration: none;
+    color: #fff;
+    padding: 0px 10px;
+}
+

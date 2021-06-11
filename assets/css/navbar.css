@@ -1,0 +1,91 @@
+#navbar{
+    z-index: 999;
+    width: 100%;
+    height: auto;
+    background: transparent;
+    padding: 30px 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#navbar .logo img{
+    width: 130px;
+}
+
+#navbar .btn-regis{
+    background: #0043E7;
+    text-decoration: none;
+    color: #fff;
+    padding: 0px 10px;
+    font-family: MNM-R;
+    margin-right: 92px;
+}
+
+.navbar .btn-back{
+    text-decoration: none;
+    color: #fff;
+    padding: 0px 10px;
+    font-family: MNM-R;
+    margin-right: 5px;
+}
+
+.navbar2 .btn-back{
+    text-decoration: none;
+    color: #000;
+    padding: 0px 10px;
+    font-family: MNM-R;
+    margin-right: 5px;
+}
+
+.menu-home{
+    background: #fff;
+    width: 72px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 999;
+}
+
+.menu-home ul{
+    position: absolute;
+    width: 502px;
+    top: 30px;
+    left: 50%;
+    transform-origin: 0% 50%;
+    transform: rotate(90deg);
+    list-style: none;
+    padding-left: 0px;
+}
+
+.menu-home ul li{
+    float: left;
+    position: relative;
+}
+
+.menu-home ul li a{
+    text-decoration: none;
+    font-family: MNM-B;
+    color: #161616;
+    padding: 0px 20px;
+}
+
+.menu-home .sosmed{
+    position: absolute;
+    width: 100%;
+    bottom: 30px;
+    left: 0;
+    list-style: none;
+}
+.menu-home .sosmed a{
+    text-decoration: none;
+    color: #161616;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    padding: 5px 0px;
+}
+
+
+
