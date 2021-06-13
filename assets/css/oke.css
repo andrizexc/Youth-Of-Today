@@ -6,14 +6,14 @@
      border-top:  3px solid;
 }
 .nav-featuress ul{
-   padding: 2px 0px 0px 190px;
+   padding: 2px 0px 0px 220px;
     margin-bottom: 0;
     
 }
 .nav-featuress ul li{
     display: inline-block;
-    font-size: 20px;
-    padding: 2px 82px 12px 160px;
+    font-size: 15px;
+    padding: 2px 82px 12px 100px;
 }
 .nav-featuress ul li a{
     text-decoration: none;
