@@ -83,6 +83,26 @@ hr{
 }
 .content-2 img{
     width: 100%;
+    cursor: pointer;
+}
+.modal{
+    background: rgba(1, 67, 229, 0.7);
+}
+.modal img{
+    width: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+.modal button{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    background: transparent;
+    border: none;
+    color: #fff;
+    font-size: 1.8vw;
 }
 
 

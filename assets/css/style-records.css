@@ -1,0 +1,24 @@
+.content-1 {
+    padding-left: 200px;
+    padding-right: 20px;
+   
+}
+
+.cover img {
+    width: 80%;
+     align-content: center;
+}
+.album-title {
+    padding: 52px 12px 52px 0px;
+   
+    text-align: left;
+}
+.album-title .a-t-1 {
+    padding: 0;
+    text-align: left;
+}
+.album-title .a-t-2 {
+    padding: 0;
+    text-align: left;
+    font-size: 20px;
+}

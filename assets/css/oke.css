@@ -1,0 +1,23 @@
+.nav-featuress {
+    margin-top: 102px;
+    margin-bottom: 0;
+    padding: 10px 0px;
+    border-bottom:  3px solid;
+     border-top:  3px solid;
+}
+.nav-featuress ul{
+   padding: 2px 0px 0px 190px;
+    margin-bottom: 0;
+    
+}
+.nav-featuress ul li{
+    display: inline-block;
+    font-size: 20px;
+    padding: 2px 82px 12px 160px;
+}
+.nav-featuress ul li a{
+    text-decoration: none;
+    font-family: MNM-B;
+    color: #161616;
+    padding: 0px 25px;
+}
