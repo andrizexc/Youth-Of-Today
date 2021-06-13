@@ -1,0 +1,121 @@
+.okex {
+    padding: 0px 80px;;
+}
+.merch-title {
+    padding-left: 42px;
+    padding-top: 90px;
+}
+.merch-title p {
+    margin-top: -22px;
+    
+}
+.a-t-1 {
+    font-family: MNM-B;
+    
+}
+.merch-title  .a-t-3 {
+    font-size: 16px;
+}
+.btn-area {
+    margin-left: 52px;
+}
+.btn-ok {
+   border-radius: 0px;
+    border: 3px solid;
+    font-family: MNM-B;
+    background-color: #ffffff;
+}
+.dropdown-menu {
+    background-color: #000000;
+    color: white;
+    
+}
+.dropdown-item {
+    color: white;
+}
+.btn-primary {
+    background-color: #4f4fff;
+    border-radius: 0px;
+    display: block;
+    margin: 20px 50px; 
+}
+/*ZoomIn Hover-Mask Effect*/
+    .hover-mask a {
+        margin-bottom: 120px;
+      display: block;
+      position: relative;
+      overflow: hidden;
+    }
+    .hover-mask img {
+      width: 100%;
+      height: auto;
+      -webkit-transition: all 0.5s ease-in-out;
+      -moz-transition: all 0.5s ease-in-out;
+      -o-transition: all 0.5s ease-in-out;
+      -ms-transition: all 0.5s ease-in-out;
+      transition: all 0.5s ease-in-out;
+    }
+    .hover-mask:hover img {
+      -webkit-transform: scale(1.2);
+      -moz-transform: scale(1.2);
+      -o-transform: scale(1.2);
+      -ms-transform: scale(1.2);
+      transform: scale(1.2);
+    }
+    .hover-mask a h2 {
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      height: 100%;
+      width: 100%;
+      padding: 35% 60px;
+      text-align: center;
+      background-color: rgba(0,0,0,0.4);
+      -webkit-transition: all 0.5s linear;
+      -moz-transition: all 0.5s linear;
+      -o-transition: all 0.5s linear;
+      -ms-transition: all 0.5s linear;
+      transition: all 0.5s linear;
+      -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
+      filter: alpha(opacity=0);
+      opacity: 0;
+    }
+    .hover-mask:hover a h2 {
+      -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
+      filter: alpha(opacity=100);
+      opacity: 1;
+    }
+    .hover-mask .fa-search {
+      -webkit-transform: scale(0);
+      -moz-transform: scale(0);
+      -o-transform: scale(0);
+      -ms-transform: scale(0);
+      transform: scale(0);
+      color: #fff;
+      -webkit-transition: all 0.5s linear;
+      -moz-transition: all 0.5s linear;
+      -o-transition: all 0.5s linear;
+      -ms-transition: all 0.5s linear;
+      transition: all 0.5s linear;
+      -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
+      filter: alpha(opacity=0);
+      opacity: 0;
+    }
+    .hover-mask:hover .fa-search {
+      -webkit-transform: scale(1);
+      -moz-transform: scale(1);
+      -o-transform: scale(1);
+      -ms-transform: scale(1);
+      transform: scale(1);
+      -webkit-transition: all 0.5s linear;
+      -moz-transition: all 0.5s linear;
+      -o-transition: all 0.5s linear;
+      -ms-transition: all 0.5s linear;
+      transition: all 0.5s linear;
+      -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=1)";
+      filter: alpha(opacity=1);
+      opacity: 1;
+    }
